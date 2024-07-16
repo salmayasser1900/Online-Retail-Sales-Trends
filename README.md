@@ -2,10 +2,10 @@
 This Project provides a detailed analysis of online retail sales trends using SQL and Python for data extraction, cleaning, and analysis. The findings are visualized through a Power BI dashboard to offer insights into customer demographics, product performance, and geographical sales distribution.
 
 # Data Overview
-Number of Customers: 92
-Number of Products: 7
-Number of Countries: 19
-Total Sales: $10.03M
+Number of Customers: 92   /n
+Number of Products: 7  /n
+Number of Countries: 19  /n
+Total Sales: $10.03M  /n
 # Key Metrics
 Top Selling Product Lines: Classic Cars, Vintage Cars
 Highest Average Order Value: Trains
