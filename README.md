@@ -23,5 +23,8 @@ The sum of Sales by Country: The USA leads in sales, followed by Spain and Franc
 The sum of Price to Each Product: Classic Cars have the highest price per unit.
 Countries We Deal With: Visualization shows a wide geographical distribution with significant sales in the USA, Europe, and Asia.
 
+
+![Annotation 2024-07-16 161839](https://github.com/user-attachments/assets/416ab624-75cd-4f12-b8e0-46b6abbbc531)
+
 ![Annotation 2024-07-16 161914](https://github.com/user-attachments/assets/27835469-1c30-4da1-a420-397191cb744a)
 
